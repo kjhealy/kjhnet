@@ -1,2 +1,5 @@
 ^LICENSE\.md$
 ^README\.Rmd$
+^kjhnet\.Rproj$
+^\.Rproj\.user$
+^data-raw$

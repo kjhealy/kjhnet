@@ -1,17 +1,6 @@
----
-output: github_document
----
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
+
 
 # kjhnet
 
@@ -42,7 +31,8 @@ While using `install_github()` works just fine, it would be nicer to be able to 
 
 First, install `drat`:
 
-```{r drat, eval = FALSE}
+
+```r
 if (!require("drat")) {
     install.packages("drat")
     library("drat")
@@ -51,19 +41,22 @@ if (!require("drat")) {
 
 Then use `drat` to tell R about the repository where `kjhnet` is hosted:
 
-```{r drat-kjhnet}
+
+```r
 drat::addRepo("kjhealy")
 ```
 
 You can now install `kjhnet`:
 
-```{r kjhnet-drat, eval = FALSE}
+
+```r
 install.packages("kjhnet")
 ```
 
 To ensure that the `kjhnet` repository is always available, you can add the following line to your `.Rprofile` or `.Rprofile.site` file:
 
-```{r rprofile}
+
+```r
 drat::addRepo("kjhealy")
 ```
 
@@ -76,15 +69,21 @@ Note that the drat repository only contains data packages that are not on CRAN, 
 
 The package works best with the [ggraph](https://github.com/thomasp85/ggraph), [tidygraph](https://github.com/thomasp85/tidygraph), and broader [tidyverse](http://tidyverse.org/) libraries.
 
-```{r libs}
+
+```r
 library(tidyverse)
 library(ggraph)
 library(tidygraph)
+#> Attaching package: 'tidygraph'
+#> The following object is masked from 'package:stats':
+#> 
+#>     filter
 ```
 
 Load the data:
 
-```{r load}
+
+```r
 library(kjhnet)
 ```
 

@@ -1,0 +1,605 @@
+*Vertices 311
+1 "" ic indianred1
+2 "" ic indianred1
+3 "" ic indianred1
+4 "" ic indianred1
+5 "Achilles" ic skyblue3
+6 "" ic indianred1
+7 "" ic indianred1
+8 "" ic indianred1
+9 "" ic indianred1
+10 "" ic indianred1
+11 "" ic indianred1
+12 "" ic indianred1
+13 "" ic skyblue3
+14 "Agamemnon" ic skyblue3
+15 "" ic indianred1
+16 "" ic indianred1
+17 "" ic skyblue3
+18 "" ic indianred1
+19 "" ic indianred1
+20 "" ic indianred1
+21 "" ic indianred1
+22 "" ic skyblue3
+23 "" ic indianred1
+24 "" ic indianred1
+25 "" ic skyblue3
+26 "" ic indianred1
+27 "" ic indianred1
+28 "" ic indianred1
+29 "" ic skyblue3
+30 "" ic skyblue3
+31 "" ic indianred1
+32 "" ic indianred1
+33 "" ic skyblue3
+34 "" ic indianred1
+35 "" ic indianred1
+36 "" ic skyblue3
+37 "" ic indianred1
+38 "" ic indianred1
+39 "" ic indianred1
+40 "" ic indianred1
+41 "" ic indianred1
+42 "" ic indianred1
+43 "" ic indianred1
+44 "" ic skyblue3
+45 "" ic skyblue3
+46 "" ic indianred1
+47 "" ic indianred1
+48 "" ic indianred1
+49 "" ic indianred1
+50 "" ic indianred1
+51 "" ic indianred1
+52 "" ic indianred1
+53 "" ic skyblue3
+54 "" ic skyblue3
+55 "" ic indianred1
+56 "" ic indianred1
+57 "" ic skyblue3
+58 "" ic indianred1
+59 "" ic indianred1
+60 "" ic indianred1
+61 "" ic indianred1
+62 "" ic indianred1
+63 "" ic indianred1
+64 "" ic indianred1
+65 "" ic indianred1
+66 "" ic indianred1
+67 "" ic indianred1
+68 "" ic indianred1
+69 "" ic skyblue3
+70 "" ic indianred1
+71 "" ic skyblue3
+72 "" ic indianred1
+73 "" ic skyblue3
+74 "" ic indianred1
+75 "" ic indianred1
+76 "" ic indianred1
+77 "" ic indianred1
+78 "" ic indianred1
+79 "" ic indianred1
+80 "" ic indianred1
+81 "" ic indianred1
+82 "" ic indianred1
+83 "" ic skyblue3
+84 "" ic indianred1
+85 "" ic indianred1
+86 "" ic skyblue3
+87 "Diomedes" ic skyblue3
+88 "" ic skyblue3
+89 "" ic indianred1
+90 "" ic skyblue3
+91 "" ic indianred1
+92 "" ic indianred1
+93 "" ic indianred1
+94 "" ic indianred1
+95 "" ic indianred1
+96 "" ic indianred1
+97 "" ic indianred1
+98 "" ic indianred1
+99 "" ic indianred1
+100 "" ic skyblue3
+101 "" ic skyblue3
+102 "" ic indianred1
+103 "" ic indianred1
+104 "" ic skyblue3
+105 "" ic indianred1
+106 "" ic indianred1
+107 "" ic indianred1
+108 "" ic skyblue3
+109 "" ic indianred1
+110 "" ic indianred1
+111 "" ic indianred1
+112 "" ic indianred1
+113 "" ic indianred1
+114 "" ic skyblue3
+115 "" ic indianred1
+116 "" ic indianred1
+117 "" ic skyblue3
+118 "" ic skyblue3
+119 "" ic indianred1
+120 "" ic indianred1
+121 "" ic indianred1
+122 "" ic indianred1
+123 "Hector" ic indianred1
+124 "" ic indianred1
+125 "" ic skyblue3
+126 "" ic indianred1
+127 "" ic indianred1
+128 "" ic indianred1
+129 "" ic indianred1
+130 "" ic skyblue3
+131 "" ic indianred1
+132 "" ic indianred1
+133 "" ic indianred1
+134 "" ic indianred1
+135 "" ic indianred1
+136 "" ic indianred1
+137 "" ic skyblue3
+138 "" ic indianred1
+139 "" ic indianred1
+140 "" ic skyblue3
+141 "" ic skyblue3
+142 "" ic indianred1
+143 "" ic indianred1
+144 "" ic indianred1
+145 "" ic indianred1
+146 "" ic skyblue3
+147 "" ic indianred1
+148 "" ic indianred1
+149 "" ic indianred1
+150 "" ic indianred1
+151 "" ic indianred1
+152 "" ic skyblue3
+153 "" ic skyblue3
+154 "" ic skyblue3
+155 "" ic skyblue3
+156 "" ic indianred1
+157 "" ic indianred1
+158 "" ic skyblue3
+159 "" ic indianred1
+160 "" ic skyblue3
+161 "" ic indianred1
+162 "" ic indianred1
+163 "" ic skyblue3
+164 "" ic skyblue3
+165 "" ic skyblue3
+166 "" ic indianred1
+167 "" ic indianred1
+168 "" ic indianred1
+169 "" ic indianred1
+170 "" ic skyblue3
+171 "" ic skyblue3
+172 "" ic skyblue3
+173 "" ic indianred1
+174 "" ic skyblue3
+175 "" ic indianred1
+176 "" ic indianred1
+177 "" ic indianred1
+178 "" ic indianred1
+179 "" ic indianred1
+180 "" ic indianred1
+181 "" ic indianred1
+182 "" ic indianred1
+183 "" ic indianred1
+184 "" ic indianred1
+185 "Odysseus" ic skyblue3
+186 "" ic skyblue3
+187 "" ic indianred1
+188 "" ic indianred1
+189 "" ic indianred1
+190 "" ic indianred1
+191 "" ic skyblue3
+192 "" ic indianred1
+193 "" ic skyblue3
+194 "" ic skyblue3
+195 "" ic skyblue3
+196 "" ic indianred1
+197 "" ic indianred1
+198 "" ic indianred1
+199 "" ic indianred1
+200 "" ic skyblue3
+201 "" ic skyblue3
+202 "" ic indianred1
+203 "" ic skyblue3
+204 "" ic skyblue3
+205 "" ic indianred1
+206 "" ic indianred1
+207 "" ic indianred1
+208 "Patroclus" ic skyblue3
+209 "" ic indianred1
+210 "" ic indianred1
+211 "" ic indianred1
+212 "" ic indianred1
+213 "" ic indianred1
+214 "" ic skyblue3
+215 "" ic indianred1
+216 "" ic skyblue3
+217 "" ic skyblue3
+218 "" ic indianred1
+219 "" ic indianred1
+220 "" ic indianred1
+221 "" ic indianred1
+222 "" ic indianred1
+223 "" ic indianred1
+224 "" ic indianred1
+225 "" ic indianred1
+226 "" ic indianred1
+227 "" ic indianred1
+228 "" ic indianred1
+229 "" ic indianred1
+230 "" ic indianred1
+231 "" ic indianred1
+232 "" ic skyblue3
+233 "" ic skyblue3
+234 "" ic indianred1
+235 "" ic skyblue3
+236 "" ic indianred1
+237 "" ic indianred1
+238 "" ic indianred1
+239 "" ic indianred1
+240 "" ic indianred1
+241 "" ic indianred1
+242 "" ic indianred1
+243 "" ic indianred1
+244 "" ic indianred1
+245 "" ic indianred1
+246 "" ic indianred1
+247 "" ic indianred1
+248 "" ic indianred1
+249 "" ic indianred1
+250 "" ic skyblue3
+251 "" ic indianred1
+252 "" ic indianred1
+253 "" ic indianred1
+254 "" ic indianred1
+255 "" ic indianred1
+256 "" ic indianred1
+257 "" ic indianred1
+258 "" ic indianred1
+259 "" ic indianred1
+260 "" ic indianred1
+261 "" ic indianred1
+262 "" ic indianred1
+263 "" ic indianred1
+264 "" ic indianred1
+265 "" ic skyblue3
+266 "Ajax" ic skyblue3
+267 "Teucer" ic skyblue3
+268 "" ic skyblue3
+269 "" ic indianred1
+270 "" ic indianred1
+271 "" ic skyblue3
+272 "" ic indianred1
+273 "" ic indianred1
+274 "" ic indianred1
+275 "" ic indianred1
+276 "" ic indianred1
+277 "" ic skyblue3
+278 "" ic indianred1
+279 "" ic indianred1
+280 "" ic indianred1
+281 "" ic skyblue3
+282 "" ic skyblue3
+283 "" ic indianred1
+284 "" ic indianred1
+285 "" ic indianred1
+286 "" ic indianred1
+287 "" ic indianred1
+288 "" ic indianred1
+289 "" ic indianred1
+290 "" ic indianred1
+291 "" ic indianred1
+292 "" ic indianred1
+293 "" ic indianred1
+294 "" ic indianred1
+295 "" ic indianred1
+296 "" ic indianred1
+297 "" ic indianred1
+298 "" ic indianred1
+299 "" ic indianred1
+300 "" ic indianred1
+301 "" ic indianred1
+302 "" ic indianred1
+303 "" ic indianred1
+304 "" ic indianred1
+305 "" ic indianred1
+306 "" ic indianred1
+307 "" ic indianred1
+308 "" ic indianred1
+309 "" ic indianred1
+310 "" ic indianred1
+311 "" ic indianred1
+*Arcs
+4 233
+5 11
+5 40
+5 48
+5 51
+5 77
+5 80
+5 81
+5 82
+5 94
+5 96
+5 123
+5 127
+5 147
+5 150
+5 156
+5 176
+5 180
+5 182
+5 190
+5 229
+5 246
+5 269
+5 276
+5 310
+10 33
+10 73
+10 140
+10 153
+10 164
+10 200
+14 7
+14 32
+14 58
+14 72
+14 78
+14 103
+14 128
+14 145
+14 148
+14 184
+14 188
+14 213
+18 69
+18 104
+30 2
+30 47
+30 52
+30 98
+30 168
+30 175
+30 181
+30 220
+30 274
+32 155
+41 216
+53 43
+72 14
+85 45
+85 137
+87 1
+87 8
+87 10
+87 15
+87 16
+87 26
+87 41
+87 50
+87 56
+87 59
+87 64
+87 89
+87 97
+87 105
+87 134
+87 205
+87 221
+87 230
+87 245
+87 252
+87 253
+87 254
+87 255
+87 256
+87 257
+87 258
+87 259
+87 260
+87 261
+87 262
+87 273
+87 279
+87 311
+117 12
+117 93
+117 192
+117 210
+118 35
+118 136
+118 169
+119 57
+119 146
+123 13
+123 17
+123 25
+123 29
+123 36
+123 44
+123 54
+123 71
+123 90
+123 101
+123 108
+123 125
+123 130
+123 160
+123 171
+123 186
+123 191
+123 193
+123 194
+123 195
+123 201
+123 208
+123 217
+123 250
+123 250
+123 265
+123 267
+123 268
+123 282
+124 86
+141 21
+141 46
+141 112
+141 187
+141 202
+141 219
+152 224
+154 31
+154 129
+154 139
+154 173
+154 196
+158 34
+165 24
+165 74
+165 209
+170 91
+170 116
+170 124
+170 135
+170 212
+170 226
+170 238
+170 249
+170 272
+174 4
+174 6
+174 85
+174 122
+174 132
+174 151
+174 178
+174 222
+185 19
+185 20
+185 62
+185 63
+185 65
+185 70
+185 79
+185 84
+185 106
+185 121
+185 126
+185 133
+185 177
+185 183
+185 225
+185 237
+185 263
+185 275
+204 68
+204 248
+207 83
+207 87
+207 114
+207 172
+208 9
+208 28
+208 39
+208 55
+208 61
+208 95
+208 99
+208 102
+208 107
+208 110
+208 111
+208 113
+208 115
+208 144
+208 167
+208 179
+208 215
+208 231
+208 234
+208 240
+208 242
+208 244
+208 247
+208 264
+208 270
+208 278
+208 280
+208 283
+208 284
+208 285
+208 286
+208 287
+208 288
+208 289
+208 290
+208 291
+208 292
+208 293
+208 294
+208 295
+208 296
+208 297
+208 298
+208 299
+208 300
+208 301
+208 302
+208 303
+208 304
+208 305
+208 306
+208 307
+208 308
+208 309
+211 88
+214 142
+214 157
+227 100
+228 163
+228 203
+228 235
+232 49
+232 76
+232 198
+232 241
+247 22
+247 281
+263 185
+266 3
+266 27
+266 37
+266 60
+266 92
+266 109
+266 123
+266 131
+266 138
+266 149
+266 161
+266 206
+266 223
+266 239
+266 243
+266 251
+267 23
+267 38
+267 42
+267 66
+267 67
+267 75
+267 119
+267 120
+267 143
+267 159
+267 166
+267 189
+267 197
+267 199
+267 218
+267 236
+271 211
+277 162
+281 247

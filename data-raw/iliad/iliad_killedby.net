@@ -1,0 +1,605 @@
+*Vertices 311
+1 "Abas" ic Red
+2 "Ableros" ic Red
+3 "Acamas" ic Red
+4 "AcamasAntenor" ic Red
+5 "Achilles" ic Blue
+6 "Adamas" ic Red
+7 "Adrestus_1" ic Red
+8 "Adrestus_2" ic Red
+9 "Adrestus_3" ic Red
+10 "Aeneas" ic Red
+11 "Aenius" ic Red
+12 "Aesepus" ic Red
+13 "Aesymnus" ic Blue
+14 "Agamemnon" ic Blue
+15 "Agastrophus" ic Red
+16 "Agelaos" ic Red
+17 "Agelaus" ic Blue
+18 "Agenor" ic Red
+19 "Alastor" ic Red
+20 "Alcandrus" ic Red
+21 "Alcathous" ic Red
+22 "Alcmaon" ic Blue
+23 "Amopaon" ic Red
+24 "Amphiclus" ic Red
+25 "Amphimachus" ic Blue
+26 "AmphiusMerops" ic Red
+27 "AmphiusSelagus" ic Red
+28 "Amphoterus" ic Red
+29 "Anchialus" ic Blue
+30 "Antilochus" ic Blue
+31 "Antiphates" ic Red
+32 "Antiphus" ic Red
+33 "Aphareus" ic Blue
+34 "ApisaonPaeonia" ic Red
+35 "ApisaonPhausius" ic Red
+36 "Arcesilaus" ic Blue
+37 "Archelochus" ic Red
+38 "Archeptolemos" ic Red
+39 "Areilycus" ic Red
+40 "Areithous" ic Red
+41 "Ares" ic Red
+42 "Aretaon" ic Red
+43 "Aretus" ic Red
+44 "Asaeus" ic Blue
+45 "Ascalaphus" ic Blue
+46 "Asius" ic Red
+47 "Asius_charioteer" ic Red
+48 "Asteropaeus" ic Red
+49 "Astyalus" ic Red
+50 "Astynous" ic Red
+51 "Astypylus" ic Red
+52 "Atymnius" ic Red
+53 "Automedon" ic Blue
+54 "Autonous_A" ic Blue
+55 "Autonous_T" ic Red
+56 "Axylus" ic Red
+57 "Bathycles" ic Blue
+58 "Bienor" ic Red
+59 "Calesius" ic Red
+60 "Caletor" ic Red
+61 "Cebriones" ic Red
+62 "Charops" ic Red
+63 "Chersidamas" ic Red
+64 "Chromius1" ic Red
+65 "Chromius2" ic Red
+66 "Chromius3" ic Red
+67 "Cleitus" ic Red
+68 "Cleobulus" ic Red
+69 "Clonius" ic Blue
+70 "CoeranusIphitus" ic Red
+71 "CoeranusOfLyctus" ic Blue
+72 "Coön" ic Red
+73 "Crethon" ic Blue
+74 "Croesmus" ic Red
+75 "Daitor" ic Red
+76 "Damasus" ic Red
+77 "Dardanus" ic Red
+78 "Deicoon" ic Red
+79 "Democoön" ic Red
+80 "Demoleon" ic Red
+81 "Demouchos" ic Red
+82 "Deucalion" ic Red
+83 "Deïochus" ic Blue
+84 "Deïopites" ic Red
+85 "Deïphobus" ic Red
+86 "Deïpyrus" ic Blue
+87 "Diomedes" ic Blue
+88 "Diores" ic Blue
+89 "Dolon" ic Red
+90 "DolopsClytius" ic Blue
+91 "DolopsLampus" ic Red
+92 "Doryclus" ic Red
+93 "Dresus" ic Red
+94 "Dryops" ic Red
+95 "Echeclus" ic Red
+96 "EcheclusAgenor" ic Red
+97 "Echemmon" ic Red
+98 "Echepolus" ic Red
+99 "EchiusLycian" ic Red
+100 "Echius_A" ic Blue
+101 "Eioneus" ic Blue
+102 "Elasus" ic Red
+103 "Elatus" ic Red
+104 "Elephenor" ic Blue
+105 "Eniopeus" ic Red
+106 "Ennomus" ic Red
+107 "Epaltes" ic Red
+108 "Epeigeus" ic Blue
+109 "Epicles" ic Red
+110 "Epistor" ic Red
+111 "Erylaus" ic Red
+112 "Erymas1" ic Red
+113 "Erymas2" ic Red
+114 "Euchenor" ic Blue
+115 "Euippus" ic Red
+116 "Euphorbus" ic Red
+117 "Euryalus" ic Blue
+118 "Eurypylus" ic Blue
+119 "Glaucus" ic Red
+120 "Gorgythion" ic Red
+121 "Halius" ic Red
+122 "Harpalion" ic Red
+123 "Hector" ic Red
+124 "HelenusPriam" ic Red
+125 "Helenus_A" ic Blue
+126 "Hippodamas1" ic Red
+127 "Hippodamas2" ic Red
+128 "Hippolochus" ic Red
+129 "Hippomachus" ic Red
+130 "Hipponous" ic Blue
+131 "Hippothous" ic Red
+132 "Hippotion" ic Red
+133 "Hypeirochus" ic Red
+134 "Hypeiron" ic Red
+135 "Hyperenor" ic Red
+136 "HypsenorDolopion" ic Red
+137 "HypsenorHippasus" ic Blue
+138 "Hyrtius" ic Red
+139 "Iamenus" ic Red
+140 "Iasus" ic Blue
+141 "Idomeneus" ic Blue
+142 "Ilioneus" ic Red
+143 "Imbrius" ic Red
+144 "Ipheus" ic Red
+145 "Iphidamas" ic Red
+146 "Iphinous" ic Blue
+147 "Iphition" ic Red
+148 "Isus" ic Red
+149 "Laodamas" ic Red
+150 "LaogonusBias" ic Red
+151 "LaogonusOnetor" ic Red
+152 "Leitus" ic Blue
+153 "Leocritus" ic Blue
+154 "Leonteus" ic Blue
+155 "Leucus" ic Blue
+156 "Lycaon" ic Red
+157 "Lyco" ic Red
+158 "Lycomedes" ic Blue
+159 "Lycophontes" ic Red
+160 "Lycophron" ic Blue
+161 "Lysander" ic Red
+162 "Maris" ic Red
+163 "Mecisteus" ic Blue
+164 "Medon" ic Blue
+165 "Meges" ic Blue
+166 "Melanippus1" ic Red
+167 "Melanippus2" ic Red
+168 "MelanippusHicetaon" ic Red
+169 "Melanthius" ic Red
+170 "Menelaus" ic Blue
+171 "Menesthes" ic Blue
+172 "Menesthius" ic Blue
+173 "Menon" ic Red
+174 "Meriones" ic Blue
+175 "Mermerus" ic Red
+176 "Mnesus" ic Red
+177 "Molion" ic Red
+178 "Morys" ic Red
+179 "Mulius1" ic Red
+180 "Mulius2" ic Red
+181 "Mydon1" ic Red
+182 "Mydon2" ic Red
+183 "Noemon" ic Red
+184 "Odius" ic Red
+185 "Odysseus" ic Blue
+186 "Oenomaus_A" ic Blue
+187 "Oenomaus_T" ic Red
+188 "Oileus" ic Red
+189 "Ophelestes1" ic Red
+190 "Ophelestes2" ic Red
+191 "Opheltius_A" ic Blue
+192 "Opheltius_T" ic Red
+193 "Opites" ic Blue
+194 "Oresbius" ic Blue
+195 "Orestes_A" ic Blue
+196 "Orestes_T" ic Red
+197 "Ormenus1" ic Red
+198 "Ormenus2" ic Red
+199 "Orsilochos" ic Red
+200 "Orsilochus" ic Blue
+201 "Orus" ic Blue
+202 "Othryoneus" ic Red
+203 "Otus" ic Blue
+204 "Oïlean Ajax" ic Blue
+205 "Pandarus" ic Red
+206 "Pandocus" ic Red
+207 "Paris" ic Red
+208 "Patroclus" ic Blue
+209 "Pedaeus" ic Red
+210 "Pedasus" ic Red
+211 "Peirous" ic Red
+212 "Peisander" ic Red
+213 "PeisanderAntimachus" ic Red
+214 "Peneleus" ic Blue
+215 "Perimus" ic Red
+216 "Periphas" ic Blue
+217 "PeriphetesCopreus" ic Blue
+218 "Periphetes_T" ic Red
+219 "Phaestus" ic Red
+220 "Phalces" ic Red
+221 "Phegeus" ic Red
+222 "Phereclus" ic Red
+223 "Phorcys" ic Red
+224 "Phylacus" ic Red
+225 "Pidytes" ic Red
+226 "Podes" ic Red
+227 "Polites" ic Red
+228 "Polydamas" ic Red
+229 "Polydorus" ic Red
+230 "Polyidus" ic Red
+231 "Polymelus" ic Red
+232 "Polypoetes" ic Blue
+233 "Promachus" ic Blue
+234 "Pronous" ic Red
+235 "Prothoënor" ic Blue
+236 "Prothoön" ic Red
+237 "Prytanis" ic Red
+238 "Pylaemenes" ic Red
+239 "Pylartes1" ic Red
+240 "Pylartes2" ic Red
+241 "Pylon" ic Red
+242 "Pyraechmes" ic Red
+243 "Pyrasus" ic Red
+244 "Pyris" ic Red
+245 "Rhesus" ic Red
+246 "Rhigmus" ic Red
+247 "Sarpedon" ic Red
+248 "Satnius" ic Red
+249 "Scamandrius" ic Red
+250 "Schedius" ic Blue
+251 "Simoeisius" ic Red
+252 "SleepingTrojan01" ic Red
+253 "SleepingTrojan02" ic Red
+254 "SleepingTrojan03" ic Red
+255 "SleepingTrojan04" ic Red
+256 "SleepingTrojan05" ic Red
+257 "SleepingTrojan06" ic Red
+258 "SleepingTrojan07" ic Red
+259 "SleepingTrojan08" ic Red
+260 "SleepingTrojan09" ic Red
+261 "SleepingTrojan10" ic Red
+262 "SleepingTrojan11" ic Red
+263 "Socus" ic Red
+264 "Sthenelaus" ic Red
+265 "Stichius" ic Blue
+266 "Telamonian Ajax" ic Blue
+267 "Teucer" ic Blue
+268 "Teuthras" ic Blue
+269 "Thersilochus" ic Red
+270 "Thestor" ic Red
+271 "ThoasAndraemon" ic Blue
+272 "Thoas_T" ic Red
+273 "Thoon" ic Red
+274 "Thoön_A" ic Red
+275 "Thoön_T" ic Red
+276 "Thrasius" ic Red
+277 "ThrasymedesNestor" ic Blue
+278 "Thrasymedes_T" ic Red
+279 "Thymbraeus" ic Red
+280 "TlepolemusDamastor" ic Red
+281 "TlepolemusHeracles" ic Blue
+282 "Trechus" ic Blue
+283 "Trojan01" ic Red
+284 "Trojan02" ic Red
+285 "Trojan03" ic Red
+286 "Trojan04" ic Red
+287 "Trojan05" ic Red
+288 "Trojan06" ic Red
+289 "Trojan07" ic Red
+290 "Trojan08" ic Red
+291 "Trojan09" ic Red
+292 "Trojan10" ic Red
+293 "Trojan11" ic Red
+294 "Trojan12" ic Red
+295 "Trojan13" ic Red
+296 "Trojan14" ic Red
+297 "Trojan15" ic Red
+298 "Trojan16" ic Red
+299 "Trojan17" ic Red
+300 "Trojan18" ic Red
+301 "Trojan19" ic Red
+302 "Trojan20" ic Red
+303 "Trojan21" ic Red
+304 "Trojan22" ic Red
+305 "Trojan23" ic Red
+306 "Trojan24" ic Red
+307 "Trojan25" ic Red
+308 "Trojan26" ic Red
+309 "Trojan27" ic Red
+310 "Tros" ic Red
+311 "Xanthus" ic Red
+*Arcs
+1 87
+2 30
+3 266
+4 174
+6 174
+7 14
+8 87
+9 208
+10 87
+11 5
+12 117
+13 123
+14 72
+15 87
+16 87
+17 123
+19 185
+20 185
+21 141
+22 247
+23 267
+24 165
+25 123
+26 87
+27 266
+28 208
+29 123
+31 154
+32 14
+33 10
+34 158
+35 118
+36 123
+37 266
+38 267
+39 208
+40 5
+41 87
+42 267
+43 53
+44 123
+45 85
+46 141
+47 30
+48 5
+49 232
+50 87
+51 5
+52 30
+54 123
+55 208
+56 87
+57 119
+58 14
+59 87
+60 266
+61 208
+62 185
+63 185
+64 87
+65 185
+66 267
+67 267
+68 204
+69 18
+70 185
+71 123
+72 14
+73 10
+74 165
+75 267
+76 232
+77 5
+78 14
+79 185
+80 5
+81 5
+82 5
+83 207
+84 185
+85 174
+86 124
+87 207
+88 211
+89 87
+90 123
+91 170
+92 266
+93 117
+94 5
+95 208
+96 5
+97 87
+98 30
+99 208
+100 227
+101 123
+102 208
+103 14
+104 18
+105 87
+106 185
+107 208
+108 123
+109 266
+110 208
+111 208
+112 141
+113 208
+114 207
+115 208
+116 170
+119 267
+120 267
+121 185
+122 174
+123 5
+123 266
+124 170
+125 123
+126 185
+127 5
+128 14
+129 154
+130 123
+131 266
+132 174
+133 185
+134 87
+135 170
+136 118
+137 85
+138 266
+139 154
+140 10
+142 214
+143 267
+144 208
+145 14
+146 119
+147 5
+148 14
+149 266
+150 5
+151 174
+153 10
+155 32
+156 5
+157 214
+159 267
+160 123
+161 266
+162 277
+163 228
+164 10
+166 267
+167 208
+168 30
+169 118
+171 123
+172 207
+173 154
+175 30
+176 5
+177 185
+178 174
+179 208
+180 5
+181 30
+182 5
+183 185
+184 14
+185 263
+186 123
+187 141
+188 14
+189 267
+190 5
+191 123
+192 117
+193 123
+194 123
+195 123
+196 154
+197 267
+198 232
+199 267
+200 10
+201 123
+202 141
+203 228
+205 87
+206 266
+208 123
+209 165
+210 117
+211 271
+212 170
+213 14
+215 208
+216 41
+217 123
+218 267
+219 141
+220 30
+221 87
+222 174
+223 266
+224 152
+225 185
+226 170
+229 5
+230 87
+231 208
+233 4
+234 208
+235 228
+236 267
+237 185
+238 170
+239 266
+240 208
+241 232
+242 208
+243 266
+244 208
+245 87
+246 5
+247 208
+247 281
+248 204
+249 170
+250 123
+250 123
+251 266
+252 87
+253 87
+254 87
+255 87
+256 87
+257 87
+258 87
+259 87
+260 87
+261 87
+262 87
+263 185
+264 208
+265 123
+267 123
+268 123
+269 5
+270 208
+272 170
+273 87
+274 30
+275 185
+276 5
+278 208
+279 87
+280 208
+281 247
+282 123
+283 208
+284 208
+285 208
+286 208
+287 208
+288 208
+289 208
+290 208
+291 208
+292 208
+293 208
+294 208
+295 208
+296 208
+297 208
+298 208
+299 208
+300 208
+301 208
+302 208
+303 208
+304 208
+305 208
+306 208
+307 208
+308 208
+309 208
+310 5
+311 87

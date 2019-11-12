@@ -1,0 +1,605 @@
+*Vertices 311
+1 "Abas" ic White
+2 "Ableros" ic White
+3 "Acamas" ic White
+4 "AcamasAntenor" ic White
+5 "Achilles" ic White
+6 "Adamas" ic White
+7 "Adrestus_1" ic White
+8 "Adrestus_2" ic White
+9 "Adrestus_3" ic White
+10 "Aeneas" ic White
+11 "Aenius" ic White
+12 "Aesepus" ic White
+13 "Aesymnus" ic White
+14 "Agamemnon" ic White
+15 "Agastrophus" ic White
+16 "Agelaos" ic White
+17 "Agelaus" ic White
+18 "Agenor" ic White
+19 "Alastor" ic White
+20 "Alcandrus" ic White
+21 "Alcathous" ic White
+22 "Alcmaon" ic White
+23 "Amopaon" ic White
+24 "Amphiclus" ic White
+25 "Amphimachus" ic White
+26 "AmphiusMerops" ic White
+27 "AmphiusSelagus" ic White
+28 "Amphoterus" ic White
+29 "Anchialus" ic White
+30 "Antilochus" ic White
+31 "Antiphates" ic White
+32 "Antiphus" ic Red
+33 "Aphareus" ic White
+34 "ApisaonPaeonia" ic White
+35 "ApisaonPhausius" ic White
+36 "Arcesilaus" ic White
+37 "Archelochus" ic White
+38 "Archeptolemos" ic White
+39 "Areilycus" ic White
+40 "Areithous" ic White
+41 "Ares" ic Red
+42 "Aretaon" ic White
+43 "Aretus" ic Red
+44 "Asaeus" ic White
+45 "Ascalaphus" ic White
+46 "Asius" ic White
+47 "Asius_charioteer" ic White
+48 "Asteropaeus" ic White
+49 "Astyalus" ic White
+50 "Astynous" ic White
+51 "Astypylus" ic White
+52 "Atymnius" ic White
+53 "Automedon" ic Red
+54 "Autonous_A" ic White
+55 "Autonous_T" ic White
+56 "Axylus" ic White
+57 "Bathycles" ic White
+58 "Bienor" ic White
+59 "Calesius" ic White
+60 "Caletor" ic White
+61 "Cebriones" ic White
+62 "Charops" ic White
+63 "Chersidamas" ic White
+64 "Chromius1" ic White
+65 "Chromius2" ic White
+66 "Chromius3" ic White
+67 "Cleitus" ic White
+68 "Cleobulus" ic White
+69 "Clonius" ic White
+70 "CoeranusIphitus" ic White
+71 "CoeranusOfLyctus" ic White
+72 "Coön" ic White
+73 "Crethon" ic White
+74 "Croesmus" ic White
+75 "Daitor" ic White
+76 "Damasus" ic White
+77 "Dardanus" ic White
+78 "Deicoon" ic White
+79 "Democoön" ic White
+80 "Demoleon" ic White
+81 "Demouchos" ic White
+82 "Deucalion" ic White
+83 "Deïochus" ic White
+84 "Deïopites" ic White
+85 "Deïphobus" ic White
+86 "Deïpyrus" ic Red
+87 "Diomedes" ic White
+88 "Diores" ic White
+89 "Dolon" ic White
+90 "DolopsClytius" ic White
+91 "DolopsLampus" ic White
+92 "Doryclus" ic White
+93 "Dresus" ic White
+94 "Dryops" ic White
+95 "Echeclus" ic White
+96 "EcheclusAgenor" ic White
+97 "Echemmon" ic White
+98 "Echepolus" ic White
+99 "EchiusLycian" ic White
+100 "Echius_A" ic Red
+101 "Eioneus" ic White
+102 "Elasus" ic White
+103 "Elatus" ic White
+104 "Elephenor" ic White
+105 "Eniopeus" ic White
+106 "Ennomus" ic White
+107 "Epaltes" ic White
+108 "Epeigeus" ic White
+109 "Epicles" ic White
+110 "Epistor" ic White
+111 "Erylaus" ic White
+112 "Erymas1" ic White
+113 "Erymas2" ic White
+114 "Euchenor" ic White
+115 "Euippus" ic White
+116 "Euphorbus" ic White
+117 "Euryalus" ic White
+118 "Eurypylus" ic White
+119 "Glaucus" ic White
+120 "Gorgythion" ic White
+121 "Halius" ic White
+122 "Harpalion" ic White
+123 "Hector" ic White
+124 "HelenusPriam" ic Red
+125 "Helenus_A" ic White
+126 "Hippodamas1" ic White
+127 "Hippodamas2" ic White
+128 "Hippolochus" ic White
+129 "Hippomachus" ic White
+130 "Hipponous" ic White
+131 "Hippothous" ic White
+132 "Hippotion" ic White
+133 "Hypeirochus" ic White
+134 "Hypeiron" ic White
+135 "Hyperenor" ic White
+136 "HypsenorDolopion" ic White
+137 "HypsenorHippasus" ic White
+138 "Hyrtius" ic White
+139 "Iamenus" ic White
+140 "Iasus" ic White
+141 "Idomeneus" ic White
+142 "Ilioneus" ic White
+143 "Imbrius" ic White
+144 "Ipheus" ic White
+145 "Iphidamas" ic White
+146 "Iphinous" ic White
+147 "Iphition" ic White
+148 "Isus" ic White
+149 "Laodamas" ic White
+150 "LaogonusBias" ic White
+151 "LaogonusOnetor" ic White
+152 "Leitus" ic Red
+153 "Leocritus" ic White
+154 "Leonteus" ic White
+155 "Leucus" ic White
+156 "Lycaon" ic White
+157 "Lyco" ic White
+158 "Lycomedes" ic Red
+159 "Lycophontes" ic White
+160 "Lycophron" ic White
+161 "Lysander" ic White
+162 "Maris" ic Red
+163 "Mecisteus" ic White
+164 "Medon" ic White
+165 "Meges" ic White
+166 "Melanippus1" ic White
+167 "Melanippus2" ic White
+168 "MelanippusHicetaon" ic White
+169 "Melanthius" ic White
+170 "Menelaus" ic White
+171 "Menesthes" ic White
+172 "Menesthius" ic White
+173 "Menon" ic White
+174 "Meriones" ic White
+175 "Mermerus" ic White
+176 "Mnesus" ic White
+177 "Molion" ic White
+178 "Morys" ic White
+179 "Mulius1" ic White
+180 "Mulius2" ic White
+181 "Mydon1" ic White
+182 "Mydon2" ic White
+183 "Noemon" ic White
+184 "Odius" ic White
+185 "Odysseus" ic White
+186 "Oenomaus_A" ic White
+187 "Oenomaus_T" ic White
+188 "Oileus" ic White
+189 "Ophelestes1" ic White
+190 "Ophelestes2" ic White
+191 "Opheltius_A" ic White
+192 "Opheltius_T" ic White
+193 "Opites" ic White
+194 "Oresbius" ic White
+195 "Orestes_A" ic White
+196 "Orestes_T" ic White
+197 "Ormenus1" ic White
+198 "Ormenus2" ic White
+199 "Orsilochos" ic White
+200 "Orsilochus" ic White
+201 "Orus" ic White
+202 "Othryoneus" ic White
+203 "Otus" ic White
+204 "Oïlean Ajax" ic White
+205 "Pandarus" ic White
+206 "Pandocus" ic White
+207 "Paris" ic White
+208 "Patroclus" ic White
+209 "Pedaeus" ic White
+210 "Pedasus" ic White
+211 "Peirous" ic White
+212 "Peisander" ic White
+213 "PeisanderAntimachus" ic White
+214 "Peneleus" ic White
+215 "Perimus" ic White
+216 "Periphas" ic Red
+217 "PeriphetesCopreus" ic White
+218 "Periphetes_T" ic White
+219 "Phaestus" ic White
+220 "Phalces" ic White
+221 "Phegeus" ic White
+222 "Phereclus" ic White
+223 "Phorcys" ic White
+224 "Phylacus" ic Red
+225 "Pidytes" ic White
+226 "Podes" ic White
+227 "Polites" ic Red
+228 "Polydamas" ic White
+229 "Polydorus" ic White
+230 "Polyidus" ic White
+231 "Polymelus" ic White
+232 "Polypoetes" ic White
+233 "Promachus" ic Red
+234 "Pronous" ic White
+235 "Prothoënor" ic White
+236 "Prothoön" ic White
+237 "Prytanis" ic White
+238 "Pylaemenes" ic White
+239 "Pylartes1" ic White
+240 "Pylartes2" ic White
+241 "Pylon" ic White
+242 "Pyraechmes" ic White
+243 "Pyrasus" ic White
+244 "Pyris" ic White
+245 "Rhesus" ic White
+246 "Rhigmus" ic White
+247 "Sarpedon" ic White
+248 "Satnius" ic White
+249 "Scamandrius" ic White
+250 "Schedius" ic White
+251 "Simoeisius" ic White
+252 "SleepingTrojan01" ic White
+253 "SleepingTrojan02" ic White
+254 "SleepingTrojan03" ic White
+255 "SleepingTrojan04" ic White
+256 "SleepingTrojan05" ic White
+257 "SleepingTrojan06" ic White
+258 "SleepingTrojan07" ic White
+259 "SleepingTrojan08" ic White
+260 "SleepingTrojan09" ic White
+261 "SleepingTrojan10" ic White
+262 "SleepingTrojan11" ic White
+263 "Socus" ic White
+264 "Sthenelaus" ic White
+265 "Stichius" ic White
+266 "Telamonian Ajax" ic White
+267 "Teucer" ic White
+268 "Teuthras" ic White
+269 "Thersilochus" ic White
+270 "Thestor" ic White
+271 "ThoasAndraemon" ic White
+272 "Thoas_T" ic White
+273 "Thoon" ic White
+274 "Thoön_A" ic White
+275 "Thoön_T" ic White
+276 "Thrasius" ic White
+277 "ThrasymedesNestor" ic Red
+278 "Thrasymedes_T" ic White
+279 "Thymbraeus" ic White
+280 "TlepolemusDamastor" ic White
+281 "TlepolemusHeracles" ic White
+282 "Trechus" ic White
+283 "Trojan01" ic White
+284 "Trojan02" ic White
+285 "Trojan03" ic White
+286 "Trojan04" ic White
+287 "Trojan05" ic White
+288 "Trojan06" ic White
+289 "Trojan07" ic White
+290 "Trojan08" ic White
+291 "Trojan09" ic White
+292 "Trojan10" ic White
+293 "Trojan11" ic White
+294 "Trojan12" ic White
+295 "Trojan13" ic White
+296 "Trojan14" ic White
+297 "Trojan15" ic White
+298 "Trojan16" ic White
+299 "Trojan17" ic White
+300 "Trojan18" ic White
+301 "Trojan19" ic White
+302 "Trojan20" ic White
+303 "Trojan21" ic White
+304 "Trojan22" ic White
+305 "Trojan23" ic White
+306 "Trojan24" ic White
+307 "Trojan25" ic White
+308 "Trojan26" ic White
+309 "Trojan27" ic White
+310 "Tros" ic White
+311 "Xanthus" ic White
+*Edges
+1 87
+2 30
+3 266
+4 174
+6 174
+7 14
+8 87
+9 208
+10 87
+11 5
+12 117
+13 123
+14 72
+15 87
+16 87
+17 123
+19 185
+20 185
+21 141
+22 247
+23 267
+24 165
+25 123
+26 87
+27 266
+28 208
+29 123
+31 154
+32 14
+33 10
+34 158
+35 118
+36 123
+37 266
+38 267
+39 208
+40 5
+41 87
+42 267
+43 53
+44 123
+45 85
+46 141
+47 30
+48 5
+49 232
+50 87
+51 5
+52 30
+54 123
+55 208
+56 87
+57 119
+58 14
+59 87
+60 266
+61 208
+62 185
+63 185
+64 87
+65 185
+66 267
+67 267
+68 204
+69 18
+70 185
+71 123
+72 14
+73 10
+74 165
+75 267
+76 232
+77 5
+78 14
+79 185
+80 5
+81 5
+82 5
+83 207
+84 185
+85 174
+86 124
+87 207
+88 211
+89 87
+90 123
+91 170
+92 266
+93 117
+94 5
+95 208
+96 5
+97 87
+98 30
+99 208
+100 227
+101 123
+102 208
+103 14
+104 18
+105 87
+106 185
+107 208
+108 123
+109 266
+110 208
+111 208
+112 141
+113 208
+114 207
+115 208
+116 170
+119 267
+120 267
+121 185
+122 174
+123 5
+123 266
+124 170
+125 123
+126 185
+127 5
+128 14
+129 154
+130 123
+131 266
+132 174
+133 185
+134 87
+135 170
+136 118
+137 85
+138 266
+139 154
+140 10
+142 214
+143 267
+144 208
+145 14
+146 119
+147 5
+148 14
+149 266
+150 5
+151 174
+153 10
+155 32
+156 5
+157 214
+159 267
+160 123
+161 266
+162 277
+163 228
+164 10
+166 267
+167 208
+168 30
+169 118
+171 123
+172 207
+173 154
+175 30
+176 5
+177 185
+178 174
+179 208
+180 5
+181 30
+182 5
+183 185
+184 14
+185 263
+186 123
+187 141
+188 14
+189 267
+190 5
+191 123
+192 117
+193 123
+194 123
+195 123
+196 154
+197 267
+198 232
+199 267
+200 10
+201 123
+202 141
+203 228
+205 87
+206 266
+208 123
+209 165
+210 117
+211 271
+212 170
+213 14
+215 208
+216 41
+217 123
+218 267
+219 141
+220 30
+221 87
+222 174
+223 266
+224 152
+225 185
+226 170
+229 5
+230 87
+231 208
+233 4
+234 208
+235 228
+236 267
+237 185
+238 170
+239 266
+240 208
+241 232
+242 208
+243 266
+244 208
+245 87
+246 5
+247 208
+247 281
+248 204
+249 170
+250 123
+250 123
+251 266
+252 87
+253 87
+254 87
+255 87
+256 87
+257 87
+258 87
+259 87
+260 87
+261 87
+262 87
+263 185
+264 208
+265 123
+267 123
+268 123
+269 5
+270 208
+272 170
+273 87
+274 30
+275 185
+276 5
+278 208
+279 87
+280 208
+281 247
+282 123
+283 208
+284 208
+285 208
+286 208
+287 208
+288 208
+289 208
+290 208
+291 208
+292 208
+293 208
+294 208
+295 208
+296 208
+297 208
+298 208
+299 208
+300 208
+301 208
+302 208
+303 208
+304 208
+305 208
+306 208
+307 208
+308 208
+309 208
+310 5
+311 87
