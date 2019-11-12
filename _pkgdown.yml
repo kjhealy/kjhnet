@@ -1,0 +1,21 @@
+destination: docs
+authors:
+  Kieran Healy:
+    href: http://kieranhealy.org
+template:
+  params:
+    bootswatch: cosmo
+reference:
+  - title: "Datasets"
+    desc: >
+      Included datasets.
+    contents:
+      - il_edges
+      - il_killed
+      - il_killed_by
+      - revere
+      
+navbar:
+  right:
+   - icon: fa-github
+     href: https://github.com/kjhealy/kjhnet
