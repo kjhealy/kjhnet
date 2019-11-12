@@ -5,6 +5,7 @@
 # kjhnet
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/kjhealy/kjhnet.svg?branch=master)](https://travis-ci.org/kjhealy/kjhnet)
 <!-- badges: end -->
 
 Some network data, for teaching purposes. 
@@ -74,10 +75,14 @@ The package works best with the [ggraph](https://github.com/thomasp85/ggraph), [
 library(tidyverse)
 library(ggraph)
 library(tidygraph)
+#> 
 #> Attaching package: 'tidygraph'
 #> The following object is masked from 'package:stats':
 #> 
 #>     filter
+#> The following object is masked from 'package:testthat':
+#> 
+#>     matches
 ```
 
 Load the data:

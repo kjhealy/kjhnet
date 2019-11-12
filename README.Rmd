@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # kjhnet
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/kjhealy/kjhnet.svg?branch=master)](https://travis-ci.org/kjhealy/kjhnet)
 <!-- badges: end -->
 
 Some network data, for teaching purposes. 
