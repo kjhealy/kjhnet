@@ -5,8 +5,6 @@
 #' (Oxford University Press, 1995)
 #'
 #' @format A tbl_graph object.
-#' \describe{
-#'}
 #'
 #' @docType data
 #' @keywords datasets
@@ -19,15 +17,16 @@
 #' Deaths in the Iliad: winner -> loser and only names of top warriors
 #'
 #' @format A tbl_graph object.
-#' \describe{
-#' In this version of the data, arcs signify winner -> loser, and only the names of the top warriors
+#' 
+#' In this version of the data, arcs signify winner to loser links. Only the names of the top warriors
 #' (nodes with out-degree >= 10) are labeled.
-#'}
+#'
 #'
 #' @docType data
 #' @keywords datasets
 #' @name il_killed
-#' @source Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
+#' @source Gabriel Rossman, "Glory and Gore", *Contexts* October 2017
+#'     https://journals.sagepub.com/doi/full/10.1177/1536504217732052
 'il_killed'
 
 #' Deaths in the Iliad 2
@@ -35,9 +34,9 @@
 #' Deaths in the Iliad: loser -> winner, and all labels
 #'
 #' @format A tbl_graph object.
-#' \describe{
-#' In this version of the data, arcs signify loser -> winner
-#'}
+#' 
+#' In this version of the data, arcs signify loser to winner
+#'
 #'
 #' @docType data
 #' @keywords datasets
@@ -50,9 +49,9 @@
 #' Deaths in the Iliad: undirected
 #'
 #' @format A tbl_graph object.
-#' \describe{
+#' 
 #' In this version of the data, arcs are undirected ties between killer and killed
-#'}
+#'
 #'
 #' @docType data
 #' @keywords datasets

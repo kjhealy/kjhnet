@@ -5,9 +5,8 @@
 \alias{il_edges}
 \title{Deaths in the Iliad 3}
 \format{A tbl_graph object.
-\describe{
-In this version of the data, arcs are undirected ties between killer and killed
-}}
+
+In this version of the data, arcs are undirected ties between killer and killed}
 \source{
 Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
 }
