@@ -7,6 +7,14 @@ library(tidygraph)
 library(janitor)
 library(readxl)
 
+library(showtext)
+showtext_auto()
+
+library(myriad)
+import_myriad_semi()
+
+theme_set(theme_myriad_semi())
+set_graph_style(family = "Myriad Pro SemiCondensed")
 ## Illiad Data via Rossman (2017) https://osf.io/jasf4/
 
 #note, edited file is hand-coded to blank out labels for nodes with out-degree < 10
@@ -19,6 +27,18 @@ iliadkilledby <- igraph::read.graph(here("data-raw/iliad/iliad_killedby.net"), c
 igraph::V(iliadkilledby)$label <- igraph::V(iliadkilledby)$id
 
 il_killed_by <- as_tbl_graph(iliadkilledby)
+
+il_killed_by %>%
+  mutate(centrality = centrality_degree(mode = "in")) %>%
+  ggraph(layout = 'graphopt') +
+  geom_edge_link(aes(start_cap = label_rect(node1.name),
+                     end_cap = label_rect(node2.name)),
+                 arrow = arrow(length = unit(1.5, 'mm'))) +
+  geom_node_point() +
+  geom_node_label(aes(filter = centrality > 3, label = name), size = rel(2.5)) +
+  labs(title = "Killings in The Iliad") +
+  theme(plot.title = element_text(size = rel(3)))
+
 
 
 iliadedges <- igraph::read.graph(here("data-raw/iliad/iliad_edges.net"), c("pajek"))
@@ -51,14 +71,6 @@ usethis::use_data(revere,
 
 ## Socjobs Data from Rob Warren
 
-library(showtext)
-showtext_auto()
-
-library(myriad)
-import_myriad_semi()
-
-theme_set(theme_myriad_semi())
-
 clean_dept_names <- function(x){
   x <- stringr::str_replace(x, "California-", "")
   x <- stringr::str_replace(x, "SUNY-", "")
@@ -81,37 +93,6 @@ socjobs <- jobs %>%
   select(sex:gap)
 
 usethis::use_data(socjobs, overwrite = TRUE, compress = "xz")
-
-
-set_graph_style(family = "Myriad Pro SemiCondensed")
-
-p1 <- jobs %>%
-  filter(top25phd == "Yes", phd_dept != "Texas", job_dept != "Texas") %>%
-  select(phd_dept, job_dept) %>%
-  mutate(phd_dept = clean_dept_names(phd_dept),
-         job_dept = clean_dept_names(job_dept)) %>%
-  group_by(phd_dept, job_dept) %>%
-  tally() %>%
-  select(from = phd_dept, to = job_dept, weight = n) %>%
-  mutate(scale_weight = scale(weight, center = FALSE)) %>%
-  filter(weight > 0) %>%
-  as_tbl_graph() %>%
-  mutate(centrality = centrality_eigen(weights = weight)) %>%
-  ggraph(layout = "graphopt") +
-  geom_edge_fan(aes(alpha = weight),
-                arrow = arrow(length = unit(3, 'mm'), type = "closed"),
-                start_cap = circle(2, 'mm'),
-                end_cap = circle(8, 'mm')) +
-  geom_node_label(aes(label = name)) +
-  scale_edge_alpha_continuous(name = "N Hires") +
-  labs(title = "New Assistant Professor Exchanges within the Top 25 Sociology Departments",
-       subtitle = "New Ph.D. hires, 1990-2017. Data show absolute number of within-network hires only.\nHires to and from outside the Top 25 are not shown. No adjustments are made for departmental or cohort sizes.",
-       caption = "Data: Warren (2019). Data exclude UT Austin.") +
-  theme_graph(base_family = "Myriad Pro SemiCondensed") +
-  theme(legend.position = "top")
-
-ggsave("figures/exchange_network_p1.pdf", p1, height = 10, width = 15)
-ggsave("figures/exchange_network_p1.png", p1, height = 10, width = 15, dpi = 300)
 
 
 
