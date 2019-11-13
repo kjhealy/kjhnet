@@ -12,6 +12,35 @@
 #' @source David Hackett Fischer, Paul Reviere's Ride (OUP 1995)
 'revere'
 
+#' Pre-Revolutionary Boston Clubs: person x person
+#'
+#' Membership or affiliation in Pre-Revolutionary organizations,
+#' from Appendix D of David Hackett Fischer's "Paul Revere's Ride"
+#' (Oxford University Press, 1995)
+#'
+#' @format A tbl_graph object.
+#'
+#' @docType data
+#' @keywords datasets
+#' @name revere_persons
+#' @source David Hackett Fischer, Paul Reviere's Ride (OUP 1995)
+'revere_persons'
+
+#' Pre-Revolutionary Boston Clubs: group x group
+#'
+#' Membership or affiliation in Pre-Revolutionary organizations,
+#' from Appendix D of David Hackett Fischer's "Paul Revere's Ride"
+#' (Oxford University Press, 1995)
+#'
+#' @format A tbl_graph object.
+#'
+#' @docType data
+#' @keywords datasets
+#' @name revere_groups
+#' @source David Hackett Fischer, Paul Reviere's Ride (OUP 1995)
+'revere_groups'
+
+
 #' Deaths in the Iliad 1
 #'
 #' Deaths in the Iliad: winner -> loser and only names of top warriors
