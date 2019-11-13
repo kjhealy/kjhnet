@@ -17,7 +17,7 @@
 #' Deaths in the Iliad: winner -> loser and only names of top warriors
 #'
 #' @format A tbl_graph object.
-#' 
+#'
 #' In this version of the data, arcs signify winner to loser links. Only the names of the top warriors
 #' (nodes with out-degree >= 10) are labeled.
 #'
@@ -34,7 +34,7 @@
 #' Deaths in the Iliad: loser -> winner, and all labels
 #'
 #' @format A tbl_graph object.
-#' 
+#'
 #' In this version of the data, arcs signify loser to winner
 #'
 #'
@@ -49,7 +49,7 @@
 #' Deaths in the Iliad: undirected
 #'
 #' @format A tbl_graph object.
-#' 
+#'
 #' In this version of the data, arcs are undirected ties between killer and killed
 #'
 #'
@@ -60,5 +60,25 @@
 'il_edges'
 
 
+#' Sociology Top 25 Assistant Professor Job Placements 1990-2017
+#'
+#' Limited Placement data for Sociology (TT AP Jobs in USNWR Top 25 departments only)
+#'
+#' @format A tibble with 343 rows and 7 columns
+#' \describe{
+#' \item{\code{sex}}{Sex of individual.}
+#' \item{\code{job_yr}}{Year of first Assistant Professor position.}
+#' \item{\code{job_dept}}{Hiring department}
+#' \item{\code{phd_yr}}{Year of Ph.D.}
+#' \item{\code{phd_dept}}{Individual's Ph.D department}
+#' \item{\code{top25phd}}{Is PhD Department a Top 25 USNWR Soc program?}
+#' \item{\code{gap}}{Years elapsed between PhD and TT Job.}
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name socjobs
+#' @source  John Robert Warren, (2019) "How Much Do You Have to Publish to Get a Job in a Top Sociology Department? Or to Get Tenure? Trends Over a Generation", *Sociological Science* February 27, 2019 doi://10.15195/v6.a7. Original data files available at <https://www.rob-warren.com/pub_trends.html>.
+'socjobs'
 
 
