@@ -1,3 +1,4 @@
+killer  killer_affil  action  killed_affil
 Antilochus	A	kills	Echepolus	T
 Agenor	T	kills	Elephenor	A
 Telamonian Ajax	A	kills	Simoeisius	T

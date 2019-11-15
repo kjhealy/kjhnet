@@ -88,6 +88,22 @@
 #' @source Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
 'il_edges'
 
+#' Deaths in the Iliad 4
+#'
+#' Deaths in the Iliad: tidy representation
+#'
+#' @format A tbl_graph object.
+#'
+#' Tidygraph version of the Iliad data
+#'
+#'
+#' @docType data
+#' @keywords datasets
+#' @name il_tidy
+#' @source Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
+'il_tidy'
+
+
 
 #' Sociology Top 25 Assistant Professor Job Placements 1990-2017
 #'
