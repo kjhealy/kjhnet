@@ -4,7 +4,9 @@
 \name{revere_persons}
 \alias{revere_persons}
 \title{Pre-Revolutionary Boston Clubs: person x person}
-\format{A tbl_graph object.}
+\format{
+A tbl_graph object.
+}
 \source{
 David Hackett Fischer, Paul Reviere's Ride (OUP 1995)
 }

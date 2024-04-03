@@ -4,10 +4,12 @@
 \name{il_killed}
 \alias{il_killed}
 \title{Deaths in the Iliad 1}
-\format{A tbl_graph object.
+\format{
+A tbl_graph object.
 
 In this version of the data, arcs signify winner to loser links. Only the names of the top warriors
-(nodes with out-degree >= 10) are labeled.}
+(nodes with out-degree >= 10) are labeled.
+}
 \source{
 Gabriel Rossman, "Glory and Gore", *Contexts* October 2017
     https://journals.sagepub.com/doi/full/10.1177/1536504217732052

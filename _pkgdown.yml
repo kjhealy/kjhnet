@@ -2,20 +2,37 @@ destination: docs
 authors:
   Kieran Healy:
     href: http://kieranhealy.org
+
+url: https://kjhealy.github.io/kjhnet
+
 template:
-  params:
-    bootswatch: cosmo
+  package: preferably
+  bootstrap: 5
+
 reference:
-  - title: "Datasets"
-    desc: >
-      Included datasets.
+  - title: "Data"
+    desc: Network datasets.
     contents:
       - il_edges
       - il_killed
       - il_killed_by
+      - il_tidy
       - revere
-      
+      - revere_persons
+      - revere_groups
+      - socjobs
+
 navbar:
   right:
    - icon: fa-github
      href: https://github.com/kjhealy/kjhnet
+
+figures:
+  dev: grDevices::png
+  dpi: 200
+  dev.args: []
+  fig.ext: png
+  fig.width: 7.2916667
+  fig.height: ~
+  fig.retina: 2
+  fig.asp: 1.618

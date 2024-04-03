@@ -1,3 +1,3 @@
-# kjhnet (development version)
+# kjhnet (development version 0.1)
 
-* Initial CRAN submission.
+* Updates to tidygraph objects.

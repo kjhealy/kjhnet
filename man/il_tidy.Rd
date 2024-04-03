@@ -4,9 +4,11 @@
 \name{il_tidy}
 \alias{il_tidy}
 \title{Deaths in the Iliad 4}
-\format{A tbl_graph object.
+\format{
+A tbl_graph object.
 
-Tidygraph version of the Iliad data}
+Tidygraph version of the Iliad data
+}
 \source{
 Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
 }

@@ -4,9 +4,11 @@
 \name{il_killed_by}
 \alias{il_killed_by}
 \title{Deaths in the Iliad 2}
-\format{A tbl_graph object.
+\format{
+A tbl_graph object.
 
-In this version of the data, arcs signify loser to winner}
+In this version of the data, arcs signify loser to winner
+}
 \source{
 Gabriel Rossman, "Glory and Gore", *Contexts* October 2017 https://journals.sagepub.com/doi/full/10.1177/1536504217732052
 }

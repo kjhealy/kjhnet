@@ -71,10 +71,10 @@ il_tidy %>%
 
 
 #note, edited file is hand-coded to blank out labels for nodes with out-degree < 10
-iliadkilled <- igraph::read.graph(here("data-raw/iliad/iliad_killed_edited.net"), c("pajek"))
+iliadkilled <- igraph::read_graph(here("data-raw/iliad/iliad_killed_edited.net"), c("pajek"))
 il_killed <- as_tbl_graph(iliadkilled)
 
-iliadkilledby <- igraph::read.graph(here("data-raw/iliad/iliad_killedby.net"), c("pajek"))
+iliadkilledby <- igraph::read_graph(here("data-raw/iliad/iliad_killedby.net"), c("pajek"))
 il_killed_by <- as_tbl_graph(iliadkilledby)
 
 il_tidy %>%
@@ -99,7 +99,7 @@ il_tidy %>%
 
 
 
-iliadedges <- igraph::read.graph(here("data-raw/iliad/iliad_edges.net"), c("pajek"))
+iliadedges <- igraph::read_graph(here("data-raw/iliad/iliad_edges.net"), c("pajek"))
 il_edges <- as_tbl_graph(iliadedges)
 
 usethis::use_data(il_killed,
