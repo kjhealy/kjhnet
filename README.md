@@ -1,104 +1,74 @@
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-
 
 # kjhnet
 
-<!-- badges: start -->
-[![Travis build status](https://travis-ci.org/kjhealy/kjhnet.svg?branch=master)](https://travis-ci.org/kjhealy/kjhnet)
-<!-- badges: end -->
+Some network data, for teaching purposes.
 
-Some network data, for teaching purposes. 
+- Iliad data are from Gabriel Rossman (2017) “[Glory and
+  Gore](https://journals.sagepub.com/doi/full/10.1177/1536504217732052)”,
+  *Contexts* 16(3):42–47. Original data files available at
+  <https://osf.io/jasf4/>.
 
-- Iliad data are from Gabriel Rossman (2017) "[Glory and Gore](https://journals.sagepub.com/doi/full/10.1177/1536504217732052)", *Contexts* 16(3):42--47. Original data files available at <https://osf.io/jasf4/>.
-
-- Sociology Top 25 Jobs data are from John Robert Warren, (2019) "How Much Do You Have to Publish to Get a Job in a Top Sociology Department? Or to Get Tenure? Trends Over a Generation", *Sociological Science* February 27, 2019 doi://10.15195/v6.a7. Original data files available at <https://www.rob-warren.com/pub_trends.html>. 
-
+- Sociology Top 25 Jobs data are from John Robert Warren, (2019) “How
+  Much Do You Have to Publish to Get a Job in a Top Sociology
+  Department? Or to Get Tenure? Trends Over a Generation”, *Sociological
+  Science* February 27, 2019 <doi://10.15195/v6.a7>. Original data files
+  available at <https://www.rob-warren.com/pub_trends.html>.
 
 ## Installation
 
-`kjhnet` is a data package. 
+`kjhnet` is a data package.
 
 ### Install direct from GitHub
 
-You can install the beta version of kjhnet from [GitHub](https://github.com/kjhealy/kjhnet) with:
+You can install the beta version of kjhnet from
+[GitHub](https://github.com/kjhealy/kjhnet) with:
 
 ``` r
-devtools::install_github("kjhealy/kjhnet")
+remotes::install_github("kjhealy/kjhnet")
 ```
-
-### Installation using `drat`
-
-While using `install_github()` works just fine, it would be nicer to be able to just type `install.packages("kjhnet")` or `update.packages("kjhnet")` in the ordinary way. We can do this using Dirk Eddelbuettel's [drat](http://eddelbuettel.github.io/drat/DratForPackageUsers.html) package. Drat provides a convenient way to make R aware of package repositories other than CRAN.
-
-First, install `drat`:
-
-
-```r
-if (!require("drat")) {
-    install.packages("drat")
-    library("drat")
-}
-```
-
-Then use `drat` to tell R about the repository where `kjhnet` is hosted:
-
-
-```r
-drat::addRepo("kjhealy")
-```
-
-You can now install `kjhnet`:
-
-
-```r
-install.packages("kjhnet")
-```
-
-To ensure that the `kjhnet` repository is always available, you can add the following line to your `.Rprofile` or `.Rprofile.site` file:
-
-
-```r
-drat::addRepo("kjhealy")
-```
-
-With that in place you'll be able to do `install.packages("kjhnet")` or `update.packages("kjhnet")` and have everything work as you'd expect. 
-
-Note that the drat repository only contains data packages that are not on CRAN, so you will never be in danger of grabbing the wrong version of any other package.
-
 
 ## Loading the data
 
-The package works best with the [ggraph](https://github.com/thomasp85/ggraph), [tidygraph](https://github.com/thomasp85/tidygraph), and broader [tidyverse](http://tidyverse.org/) libraries.
+The package works best with the
+[ggraph](https://github.com/thomasp85/ggraph),
+[tidygraph](https://github.com/thomasp85/tidygraph), and broader
+[tidyverse](http://tidyverse.org/) libraries.
 
-
-```r
+``` r
 library(tidyverse)
+#> ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+#> ✔ dplyr     1.1.4     ✔ readr     2.1.5
+#> ✔ forcats   1.0.0     ✔ stringr   1.5.1
+#> ✔ ggplot2   3.5.0     ✔ tibble    3.2.1
+#> ✔ lubridate 1.9.3     ✔ tidyr     1.3.1
+#> ✔ purrr     1.0.2     
+#> ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+#> ✖ dplyr::filter() masks stats::filter()
+#> ✖ dplyr::lag()    masks stats::lag()
+#> ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
 library(ggraph)
 library(tidygraph)
 #> 
 #> Attaching package: 'tidygraph'
+#> 
 #> The following object is masked from 'package:stats':
 #> 
 #>     filter
-#> The following object is masked from 'package:testthat':
-#> 
-#>     matches
 ```
 
 Load the data:
 
-
-```r
+``` r
 library(kjhnet)
 ```
 
 ## Example
 
-Some off-label use of Rob Warren's Top 25 Sociology Jobs data.
+Some off-label use of Rob Warren’s Top 25 Sociology Jobs data.
 
-
-```r
+``` r
 library(ggraph)
 library(tidygraph)
 
@@ -144,8 +114,6 @@ clean_dept_names <- function(x){
 )
   
 ggsave(here("man/figures/README-example-1.png"), p1, height = 10, width = 15, dpi = 300)
-
 ```
 
 <img src="man/figures/README-example-1.png" title="The Top 25 AP Echange Network" alt="The Top 25 AP Echange Network" width="100%" />
-
